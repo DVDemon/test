@@ -2,5 +2,5 @@
 #include <iostream>
 
 void foo(){
-    std::cout << "Hello from lib" << std::endl;
+    std::cout << "Hello from lib" ;
 }
